@@ -20,18 +20,22 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalo178"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
+    }
+  }
+}
+
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Sprawdzam jednego z graczy",
+        "Sprawdzam jednego z graczy"
       ]
     },
     "chat-log": true,
