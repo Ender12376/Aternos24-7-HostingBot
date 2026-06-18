@@ -26,27 +26,23 @@
       "enabled": true,
       "sneak": true
     }
-  }
-}
-
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "Sprawdzam jednego z graczy"
-      ]
-    },
-    "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
-    "periodic-rejoin": {
-      "enabled": false,
-      "min-interval": 20,
-      "max-interval": 60
-    }
+  },
+  "chat-messages": {
+    "enabled": true,
+    "repeat": true,
+    "repeat-delay": 120,
+    "messages": [
+      "Sprawdzam jednego z graczy"
+    ]
+  },
+  "chat-log": true,
+  "auto-reconnect": true,
+  "auto-reconnect-delay": 2000,
+  "max-reconnect-delay": 120000,
+  "periodic-rejoin": {
+    "enabled": false,
+    "min-interval": 20,
+    "max-interval": 60
   },
   "movement": {
     "enabled": true,
@@ -91,3 +87,4 @@
   "chat": {
     "respond": true
   }
+}
